@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <clipPath id="clip-LOGO-1000">
+      <rect width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="LOGO-1000" clip-path="url(#clip-LOGO-1000)">
+    <circle id="t" cx="500" cy="500" r="500" fill="#e6007a"/>
+    <g id="Pkex" transform="translate(150 188)">
+      <path id="a" d="M716.06,85.8H452.328a86.378,86.378,0,0,0-74.71,42.838L245.753,355.464a85.163,85.163,0,0,0,0,85.675L377.618,667.963a86.381,86.381,0,0,0,74.71,42.838H716.06a86.38,86.38,0,0,0,74.71-42.838L922.638,441.138a85.168,85.168,0,0,0,0-85.675L790.771,128.639A86.377,86.377,0,0,0,716.06,85.8Z" transform="translate(-234.195 -85.801)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="50"/>
+      <line id="lin1" x2="341.923" transform="translate(282.013 157.405)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="50"/>
+      <line id="lin1-2" data-name="lin1" x2="375.057" transform="translate(64.711 447.87)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="50"/>
+      <line id="lin1-3" data-name="lin1" x2="178.123" y2="316.085" transform="translate(441.879 157.885)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="50"/>
+      <line id="lin1-4" data-name="lin1" x2="178.12" y2="308.729" transform="translate(87.105 138.627)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="50"/>
+      <line id="lin1-5" data-name="lin1" x1="179.762" y2="311.576" transform="translate(188.411 0)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="50"/>
+      <line id="lin1-6" data-name="lin1" x1="182.042" y2="315.527" transform="translate(342.422 309.473)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="50"/>
+    </g>
+  </g>
+</svg>
