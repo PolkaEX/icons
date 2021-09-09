@@ -1,26 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #e6007a;
-      }
-
-      .cls-2 {
-        fill: none;
-        stroke: #fff;
-        stroke-miterlimit: 10;
-        stroke-width: 2.5px;
-      }
-    </style>
-  </defs>
-  <g id="组_830" data-name="组 830" transform="translate(-225.194 -73.301)">
-    <circle id="椭圆_44" data-name="椭圆 44" class="cls-1" cx="20" cy="20" r="20" transform="translate(225.194 73.301)"/>
-    <path id="路径_769" data-name="路径 769" class="cls-2" d="M253.469,85.8H242.92a3.455,3.455,0,0,0-2.988,1.714l-5.275,9.073a3.407,3.407,0,0,0,0,3.427l5.275,9.073a3.455,3.455,0,0,0,2.988,1.714h10.549a3.455,3.455,0,0,0,2.988-1.714l5.275-9.073a3.407,3.407,0,0,0,0-3.427l-5.275-9.073A3.455,3.455,0,0,0,253.469,85.8Z" transform="translate(-3 -5)"/>
-    <line id="直线_138" data-name="直线 138" class="cls-2" x2="13.677" transform="translate(242.475 87.097)"/>
-    <line id="直线_139" data-name="直线 139" class="cls-2" x2="15.002" transform="translate(233.783 98.716)"/>
-    <line id="直线_140" data-name="直线 140" class="cls-2" x2="7.125" y2="12.643" transform="translate(248.87 87.116)"/>
-    <line id="直线_141" data-name="直线 141" class="cls-2" x2="7.125" y2="12.349" transform="translate(234.679 86.346)"/>
-    <line id="直线_142" data-name="直线 142" class="cls-2" x1="7.19" y2="12.463" transform="translate(238.731 80.801)"/>
-    <line id="直线_143" data-name="直线 143" class="cls-2" x1="7.282" y2="12.621" transform="translate(244.892 93.18)"/>
+  <g id="PKEX-Red" transform="translate(-225.194 -73.301)">
+    <circle id="_44" data-name=" 44" cx="20" cy="20" r="20" transform="translate(225.194 73.301)" fill="#e6007a"/>
+    <path id="_769" data-name=" 769" d="M253.469,85.8H242.92a3.455,3.455,0,0,0-2.988,1.714l-5.275,9.073a3.407,3.407,0,0,0,0,3.427l5.275,9.073a3.455,3.455,0,0,0,2.988,1.714h10.549a3.455,3.455,0,0,0,2.988-1.714l5.275-9.073a3.407,3.407,0,0,0,0-3.427l-5.275-9.073A3.455,3.455,0,0,0,253.469,85.8Z" transform="translate(-3 -5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
+    <line id="_138" data-name=" 138" x2="13.677" transform="translate(242.475 87.097)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
+    <line id="_139" data-name=" 139" x2="15.002" transform="translate(233.783 98.716)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
+    <line id="_140" data-name=" 140" x2="7.125" y2="12.643" transform="translate(248.87 87.116)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
+    <line id="_141" data-name=" 141" x2="7.125" y2="12.349" transform="translate(234.679 86.346)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
+    <line id="_142" data-name="142" x1="7.19" y2="12.463" transform="translate(238.731 80.801)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
+    <line id="_143" data-name=" 143" x1="7.282" y2="12.621" transform="translate(244.892 93.18)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
   </g>
 </svg>
