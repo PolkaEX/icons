@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-  <g id="PKEX-Red" transform="translate(-225.194 -73.301)">
-    <circle id="_44" data-name=" 44" cx="20" cy="20" r="20" transform="translate(225.194 73.301)" fill="#e6007a"/>
-    <path id="_769" data-name=" 769" d="M253.469,85.8H242.92a3.455,3.455,0,0,0-2.988,1.714l-5.275,9.073a3.407,3.407,0,0,0,0,3.427l5.275,9.073a3.455,3.455,0,0,0,2.988,1.714h10.549a3.455,3.455,0,0,0,2.988-1.714l5.275-9.073a3.407,3.407,0,0,0,0-3.427l-5.275-9.073A3.455,3.455,0,0,0,253.469,85.8Z" transform="translate(-3 -5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
-    <line id="_138" data-name=" 138" x2="13.677" transform="translate(242.475 87.097)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
-    <line id="_139" data-name=" 139" x2="15.002" transform="translate(233.783 98.716)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
-    <line id="_140" data-name=" 140" x2="7.125" y2="12.643" transform="translate(248.87 87.116)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
-    <line id="_141" data-name=" 141" x2="7.125" y2="12.349" transform="translate(234.679 86.346)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
-    <line id="_142" data-name="142" x1="7.19" y2="12.463" transform="translate(238.731 80.801)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
-    <line id="_143" data-name=" 143" x1="7.282" y2="12.621" transform="translate(244.892 93.18)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.5"/>
-  </g>
-</svg>
+<svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><defs><style>.cls-1{fill:#e6007a;}.cls-2{fill:#fff;}</style></defs><rect id="_1" data-name="1" class="cls-1" width="1024" height="1024" rx="512"/><polygon id="_1-2" data-name="1" class="cls-2" points="496 306 351 389 222 316 496 159 496 306"/><polygon id="_1-3" data-name="1" class="cls-2" points="802 683 528 839 528 692 673 609 802 683"/><polygon id="_1-4" data-name="1" class="cls-2" points="818 656 689 582 689 416 818 343 818 656"/><polygon id="_1-5" data-name="1" class="cls-2" points="335 582 206 656 206 343 335 416 335 582"/><polygon id="_1-6" data-name="1" class="cls-2" points="802 316 673 389 528 306 528 159 802 316"/><polygon id="_1-7" data-name="1" class="cls-2" points="496 839 351 757 206 840 206 692 351 609 496 692 496 839"/></svg>
